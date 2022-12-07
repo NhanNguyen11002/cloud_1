@@ -1,2 +1,2 @@
 # cloud_1
-Ứng dụng chơi TicTacToo để deploy lên cloud 
+Ứng dụng chơi TicTacToe để deploy lên cloud 
