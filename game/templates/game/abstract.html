@@ -1,0 +1,15 @@
+<!doctypehtml>
+<html>
+    <head>
+        <title>{% block title %}TicTacToe{% endblock %}</title>
+        {% load static %}
+        <link rel="stylesheet" type="text/css" href="{% static "game/abstract_styles.css" %}"/>
+        {% block head %}
+        {% endblock %}
+    </head>
+
+    <body>
+        {% block body %}
+        {% endblock %}
+    </body>
+</html>
